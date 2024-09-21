@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/devanshdubey149" target="blank"><img src="https://img.shields.io/twitter/follow/devanshdubey149?logo=twitter&style=for-the-badge" alt="devanshdubey149" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://devansh0012.github.io/portfolio/](https://devansh0012.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://devansh0012.github.io/Devansh_Portfolio/](https://devansh0012.github.io/Devansh_Portfolio/)
 
 - 📫 How to reach me **devanshdubey0012@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r5Y8kAXoAJNKF6KL6h759qYQLoLVuET6/view](https://drive.google.com/file/d/1r5Y8kAXoAJNKF6KL6h759qYQLoLVuET6/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wn45NXSo-Snm2s61ezA5I6hArmCpK_B-/view?usp=sharing](https://drive.google.com/file/d/1wn45NXSo-Snm2s61ezA5I6hArmCpK_B-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devanshdubey149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devanshdubey149" height="30" width="40" /></a>
+<a href="https://x.com/Big_Odev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devanshdubey149" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devanshdubey1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devanshdubey1/" height="30" width="40" /></a>
 <a href="https://instagram.com/devansh._.dd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devansh._.dd" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/dsdubey010821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/dsdubey010821" height="30" width="40" /></a>
