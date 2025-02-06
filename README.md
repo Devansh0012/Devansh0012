@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **devanshdubey0012@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wn45NXSo-Snm2s61ezA5I6hArmCpK_B-/view?usp=sharing](https://drive.google.com/file/d/1wn45NXSo-Snm2s61ezA5I6hArmCpK_B-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bzjbX9vUjr2BZRlrqk0jeOSlU7NHULLS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
